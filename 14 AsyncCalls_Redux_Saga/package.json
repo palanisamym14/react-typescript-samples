@@ -43,6 +43,6 @@
     "redux-saga": "^0.16.0",
     "redux-thunk": "^2.3.0",
     "toastr": "^2.1.4",
-    "typescript": "^3.0.1"
+    "typescript": "^3.9.10"
   }
 }
