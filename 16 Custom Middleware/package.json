@@ -10,7 +10,7 @@
   "author": "Braulio Diez",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^5.0.0",
     "jquery": "^3.2.1",
     "lodash": "^4.5.1",
     "object-assign": "^4.0.1",
